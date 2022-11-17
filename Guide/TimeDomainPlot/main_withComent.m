@@ -1,3 +1,6 @@
+% This code is a guide for the time domain plots.
+% We use example CSV that have angle data used PD or LQR control to explain plot code.
+
 %% clear
 close all
 clear all
